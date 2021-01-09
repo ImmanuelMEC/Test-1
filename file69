@@ -16,3 +16,10 @@ class store {
 	}
 	System.out.println(“the total is : “ +receipt);
 	}}} 
+	
+	int s,d,a;
+	d=s-a;
+	system.out.println(" d is :" +d);
+	
+	int w=int n+ int f;
+	system.out.println("w is:" +w);
